@@ -8,10 +8,10 @@ Interactive slicers for dynamic filtering
 Geographical revenue visualisation using map charts
 Revenue vs profit correlation analysis using scatter plots
 ## Tools & Technologies
-Power BI
-DAX
-Power Query
-Data Modelling
+Power BI,
+DAX,
+Power Query,
+Data Modelling,
 Data Visualisation
 ## Key Insights
 Seller buyer types generated the highest overall revenue (£62.9M)
